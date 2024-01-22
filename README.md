@@ -1,3 +1,3 @@
-# PORPOISE Network
+# README for PORPOISE Network Org
 
-Proof of Reputation Protocol for Outsourced Intuition Sampling Ensembles (PORPOISE) seeks to provide an open protocol for the creation of digital identities that are cryptographically bound to a sequence of predictions. Predictions are made at verifiable times in regards to specific, publicly posed questions about future events, referred to as *surveys*. The final resolution of the event is also publicly verifiable (e.g. the winner of a local election, or the victor in a sporting event). Via the PORPOISE network, crow-sourced predictions can effectively be purchased from survey participants through the use of bounties tied to the survey on the Mina blockchain.
+This repo is for hosting the public readme file for the PORPOISE Network Github organization.
